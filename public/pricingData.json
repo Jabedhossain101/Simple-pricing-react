@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": "$29",
+    "billingCycle": "Monthly",
+    "description": "Perfect for beginners looking to get started with fitness at an affordable rate.",
+    "features": ["Access to gym equipment", "Locker room usage", "Free Wi-Fi"]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": "$49",
+    "popular": true,
+    "billingCycle": "Monthly",
+    "description": "A balanced package for regular gym-goers with added group classes.",
+    "features": [
+      "Access to all gym equipment",
+      "Locker room & showers",
+      "Group fitness classes (Zumba, Yoga, HIIT)",
+      "Free Wi-Fi"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": "$79",
+    "billingCycle": "Monthly",
+    "description": "Ideal for fitness enthusiasts who want full access including personal guidance.",
+    "features": [
+      "All Standard Plan features",
+      "2 personal trainer sessions/month",
+      "Sauna and steam room access",
+      "Nutrition consultation (once/month)"
+    ]
+  }
+]
