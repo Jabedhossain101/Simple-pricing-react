@@ -77,7 +77,7 @@ const resultData = [
 const ResultsCharts = () => {
   return (
     <div>
-      <LineChart width={800} height={500} data={resultData}>
+      <LineChart width={800} height={400} data={resultData}>
         <XAxis dataKey={'name'}></XAxis>
         <YAxis dataKey={''}></YAxis>
         <Line dataKey="math"></Line>
